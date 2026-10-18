@@ -1,0 +1,5 @@
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+# Kaggle competition data is not redistributed; see house-prices/README.md
+house-prices/*.csv
